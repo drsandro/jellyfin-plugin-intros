@@ -11,11 +11,11 @@ namespace Jellyfin.Plugin.Intros
 {
     public class Plugin : BasePlugin<PluginConfiguration>, IHasWebPages
     {
-        public override string Name => "Intros";
+        public override string Name => "Personal Intros";
 
         public override Guid Id => Guid.Parse("9482dc3b-48aa-4d3b-8224-9128d1e8e0cd");
 
-        public const int DefaultIntro = 443404335;
+        public const int DefaultIntro = 0;
 
         public const int DefaultResolution = 1080;
 

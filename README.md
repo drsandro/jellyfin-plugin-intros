@@ -6,7 +6,7 @@ This is a plugin built with DotNet that can download flashy intros from vimeo.co
 </p>
 
 
-##Install
+## Install
 Download https://github.com/drsandro/jellyfin-plugin-intros/raw/master/Jellyfin.Plugin.Intros.dll and place it in a subdirectory of your plugins-directory (i.e. /var/lib/jellyfin/plugins/CustomIntros/)
 ## Build Process
 

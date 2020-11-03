@@ -5,6 +5,9 @@
 This is a plugin built with DotNet that can download flashy intros from vimeo.com for your movies. With this fork, you can use your custom videos from vimeo.com. Just set the vimeo-Video-ID (i.e. https://vimeo.com/<b>443404335</b>) in the settings of this plugin.
 </p>
 
+
+##Install
+Download https://github.com/drsandro/jellyfin-plugin-intros/raw/master/Jellyfin.Plugin.Intros.dll and place it in a subdirectory of your plugins-directory (i.e. /var/lib/jellyfin/plugins/CustomIntros/)
 ## Build Process
 
 1. Clone or download this repository
